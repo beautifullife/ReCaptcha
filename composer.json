@@ -1,6 +1,6 @@
 {
     "name": "beautifullife/recaptcha",
-    "description": "reCaptcha plugin for cakephp 3.x",
+    "description": "ReCaptcha plugin for cakephp 3.x",
     "require": {
         "google/recaptcha": "^1.1"
     },
