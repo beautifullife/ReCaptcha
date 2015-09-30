@@ -70,8 +70,8 @@ Dung Nguyen
 
 ## Websites
 
-sheetmusic4you.net
+[sheetmusic4you.net](http://sheetmusic4you.net).
 
-vietnamcoffeeplace.com
+[vietnamcoffeeplace.com](http://vietnamcoffeeplace.com).
 
-saledream.com
+[saledream.com](http://saledream.com).
